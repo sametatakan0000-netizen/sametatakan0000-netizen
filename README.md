@@ -1,16 +1,29 @@
-## Hi there 👋
+# Merhaba 👋
 
-<!--
-**sametatakan0000-netizen/sametatakan0000-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben **HFY** — gizliliğe saygılı, telemetrisiz yazılım ve yapay zekâ ajanları için
+araçlar geliştiriyorum.
 
-Here are some ideas to get you started:
+## 🚀 Şu anki odağım: [Pergel](https://github.com/sametatakan0000-netizen/pergel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gizliliğe saygılı, **telemetrisiz**, yapay zekâ için tasarlanmış açık kaynak masaüstü
+tarayıcı. Veri satışı yok, arka plan veri akışı yok — **BYOK** (kendi anahtarınla çalış).
+
+- 🔒 **Telemetri yok** — telefon etmeyen, reklam profillemesi yapmayan tarayıcı.
+- 🤖 **AI-öncelikli depo** — `AGENTS.md`, `llms.txt`, `CODEBASE_GRAPH.json` ile
+  ajanlar için düzenlendi.
+- ⚡ **Dürüst benchmark** — yalnızca yeniden üretilebilir ölçüm, abartısız.
+
+## 🧰 Çalışma alanlarım
+
+- Gizlilik odaklı masaüstü yazılım ve tarayıcı ara yüzleri
+- Yapay zekâ ajanları için kod tabanı / ajan-yönlendirmeli geliştirme
+- Ağ teşhisi ve tersine mühendislik notları
+
+## 📫 İletişim
+
+- GitHub Issues üzerinden yazabilirsin
+- Projeyi beğendiysen ⭐ yıldızlamayı unutma
+
+---
+
+> *İlke: ölçmediğin şeyi iddia etme, veri satma, kullanıcıyı ürün yapma.*
